@@ -1,6 +1,9 @@
 네이버 블로그 rss parser
 
 ## Install
+```
+npm install naverblog-parser --save
+```
 
 ## Example
 ```js
