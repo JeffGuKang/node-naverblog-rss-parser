@@ -1,0 +1,15 @@
+{
+  "name": "example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeff Gu Kang <“jeffgukang@gmail.com”>",
+  "license": "ISC",
+  "dependencies": {
+    "node-naverblog-rss-parser": "file:../",
+    "xml2js": "^0.4.19"
+  }
+}

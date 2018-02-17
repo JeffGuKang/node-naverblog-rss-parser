@@ -1,0 +1,23 @@
+{
+  "name": "naverblog-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "naver",
+    "blog",
+    "rss",
+    "parser",
+    "npm",
+    "node"
+  ],
+  "author": "Jeff Gu Kang <“jeffgukang@gmail.com”>",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.0.0",
+    "xml2js": "^0.4.19"
+  }
+}
